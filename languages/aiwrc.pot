@@ -1,0 +1,220 @@
+# Copyright (C) 2024 Contents.ai
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Article Generator for WordPress 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ai-contents-generator-wp\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-10T15:35:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: aiwrc\n"
+
+#. Plugin Name of the plugin
+msgid "AI Article Generator for WordPress"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.contents.ai/wordpress/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enhance your WordPress writing experience with Contents.ai's innovative AI plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "Contents.ai"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.contents.ai"
+msgstr ""
+
+#: ai-contents-generator-wp.php:112
+msgid "500 words"
+msgstr ""
+
+#: ai-contents-generator-wp.php:113
+msgid "1000 words"
+msgstr ""
+
+#: ai-contents-generator-wp.php:114
+msgid "2000 words"
+msgstr ""
+
+#: ai-contents-generator-wp.php:118
+msgid "Neutral"
+msgstr ""
+
+#: ai-contents-generator-wp.php:119
+msgid "Bold"
+msgstr ""
+
+#: ai-contents-generator-wp.php:120
+msgid "Casual"
+msgstr ""
+
+#: ai-contents-generator-wp.php:121
+msgid "Dramatic"
+msgstr ""
+
+#: ai-contents-generator-wp.php:122
+msgid "Excited"
+msgstr ""
+
+#: ai-contents-generator-wp.php:123
+msgid "Formal"
+msgstr ""
+
+#: ai-contents-generator-wp.php:124
+msgid "Funny"
+msgstr ""
+
+#: ai-contents-generator-wp.php:125
+msgid "Informal"
+msgstr ""
+
+#: ai-contents-generator-wp.php:126
+msgid "Luxury"
+msgstr ""
+
+#: ai-contents-generator-wp.php:127
+msgid "Motivational"
+msgstr ""
+
+#: ai-contents-generator-wp.php:128
+msgid "Professional"
+msgstr ""
+
+#: ai-contents-generator-wp.php:129
+msgid "Sarcastic"
+msgstr ""
+
+#: ai-contents-generator-wp.php:130
+msgid "Secretive"
+msgstr ""
+
+#: ai-contents-generator-wp.php:131
+msgid "Witty"
+msgstr ""
+
+#: ai-contents-generator-wp.php:194
+#: ai-contents-generator-wp.php:269
+#: ai-contents-generator-wp.php:369
+msgid "Setup"
+msgstr ""
+
+#: ai-contents-generator-wp.php:195
+#: ai-contents-generator-wp.php:437
+msgid "Generate a post"
+msgstr ""
+
+#: ai-contents-generator-wp.php:239
+#: ai-contents-generator-wp.php:431
+msgid "You need to Setup the plugin with your Contents.ai account first."
+msgstr ""
+
+#: ai-contents-generator-wp.php:240
+#: ai-contents-generator-wp.php:432
+msgid "Go to Setup page"
+msgstr ""
+
+#: ai-contents-generator-wp.php:328
+msgid "Please provide your Contents.ai account email address that you used during registration."
+msgstr ""
+
+#: ai-contents-generator-wp.php:331
+msgid "The email address you entered is not valid."
+msgstr ""
+
+#: ai-contents-generator-wp.php:338
+msgid "The password cannot be empty. Please provide your Contents.ai account password that you chose during registration."
+msgstr ""
+
+#: ai-contents-generator-wp.php:349
+msgid "Failed to login."
+msgstr ""
+
+#: ai-contents-generator-wp.php:360
+msgid "Successfully connected. You can proceed to generate a post."
+msgstr ""
+
+#: ai-contents-generator-wp.php:380
+msgid "Login to Contents.ai"
+msgstr ""
+
+#: ai-contents-generator-wp.php:384
+msgid "E-mail"
+msgstr ""
+
+#: ai-contents-generator-wp.php:389
+msgid "Password"
+msgstr ""
+
+#: ai-contents-generator-wp.php:395
+msgid "Connect"
+msgstr ""
+
+#: ai-contents-generator-wp.php:413
+msgid "Contents.ai user connected:"
+msgstr ""
+
+#: ai-contents-generator-wp.php:413
+msgid "Disconnect"
+msgstr ""
+
+#: ai-contents-generator-wp.php:415
+msgid "Generate a post now"
+msgstr ""
+
+#: ai-contents-generator-wp.php:458
+msgid "Article Generator"
+msgstr ""
+
+#: ai-contents-generator-wp.php:463
+msgid "Language"
+msgstr ""
+
+#: ai-contents-generator-wp.php:468
+msgid "Title"
+msgstr ""
+
+#: ai-contents-generator-wp.php:470
+msgid "eg. Delicious Mexican food"
+msgstr ""
+
+#: ai-contents-generator-wp.php:473
+msgid "Instructions"
+msgstr ""
+
+#: ai-contents-generator-wp.php:475
+msgid "eg. An article about Mexico food cuisine, tradition and recipes"
+msgstr ""
+
+#: ai-contents-generator-wp.php:478
+msgid "Length"
+msgstr ""
+
+#: ai-contents-generator-wp.php:483
+msgid "Tone of voice"
+msgstr ""
+
+#: ai-contents-generator-wp.php:490
+msgid "Generate title and subheadings"
+msgstr ""
+
+#: ai-contents-generator-wp.php:554
+msgid "Invalid order detail id"
+msgstr ""
+
+#: ai-contents-generator-wp.php:559
+msgid "Invalid destination"
+msgstr ""
+
+#: ai-contents-generator-wp.php:638
+msgid "Invalid step"
+msgstr ""
